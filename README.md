@@ -8,5 +8,5 @@ A music meetups crud build with react and firebase
 clone the repo and run following commands
 
 
-npm install
+npm install <br>
 npm start
